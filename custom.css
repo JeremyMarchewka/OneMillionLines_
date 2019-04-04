@@ -15,17 +15,12 @@ nav{
     justify-content: center;
 }
 
-.logo{
-    width: 50%;
-    left: 0;
+span{
+    margin-left: 25%;
 }
-
-.logo a{
-    margin-left: 50%;
-    font-family: "Arvo";
-    font-size: 20px;
+span img{
+    margin-top: 10px;
 }
-
 .nav{
     width: 50%;
     margin-left: 50%;
